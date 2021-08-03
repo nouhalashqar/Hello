@@ -18,6 +18,7 @@ namespace ConsoleApp3
             // obj.SelectFromProcedure();
             //obj.FILEE();
             Console.WriteLine(DateTime.Now);
+            Console.WriteLine(DateTime.Now);
         }
 
         public void FILEE()

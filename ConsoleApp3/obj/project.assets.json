@@ -1486,11 +1486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nalashqar\\Source\\Repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "D:\\github projects\\ConsoleApp3\\ConsoleApp3.csproj",
       "projectName": "ConsoleApp3",
-      "projectPath": "C:\\Users\\nalashqar\\Source\\Repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectPath": "D:\\github projects\\ConsoleApp3\\ConsoleApp3.csproj",
       "packagesPath": "C:\\Users\\nalashqar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nalashqar\\Source\\Repos\\ConsoleApp3\\ConsoleApp3\\obj\\",
+      "outputPath": "D:\\github projects\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nalashqar\\AppData\\Roaming\\NuGet\\NuGet.Config",

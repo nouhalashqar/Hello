@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/9zve4d8KkroaLGeQXYmaSDgYRqb6MjYB19YzBRIY/oGyK47zOt5b/SjWJaRl38P4uWG7OXhB0vt9XSzoZW2bQ==",
+  "dgSpecHash": "lYQ4P9iu6WEQtZ/v4eU5cX/MB9XbRblNYzi9/39Ad6defJP9Sq/9yCMYlLjfRzeDnZc2yOZICokfI8UQDfknrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nalashqar\\Source\\Repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "projectFilePath": "D:\\github projects\\ConsoleApp3\\ConsoleApp3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nalashqar\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\nalashqar\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
